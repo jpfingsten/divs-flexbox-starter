@@ -112,6 +112,7 @@ header {
   font-size: 2em;
   font-weight: 700;
   display: flex;
+  justify-content: flex-start;
   align-items: center;
 }
 
@@ -126,6 +127,7 @@ header h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-bottom: 1em;
 }
 
 .wrapper {
@@ -160,7 +162,7 @@ footer {
   align-items: center;
   font-family: Poppins;
   font-size: 0.75em;
-  padding: 2em 0 1em 0;
+  padding: 3em 0 1em 0;
 }
 
 
