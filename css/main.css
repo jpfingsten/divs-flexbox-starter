@@ -154,7 +154,14 @@ header h1 {
   padding-right: 15px;
 }
 
-
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Poppins;
+  font-size: 0.75em;
+  padding: 2em 0 1em 0;
+}
 
 
 /* ==========================================================================
